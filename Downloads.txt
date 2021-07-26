@@ -1,0 +1,3 @@
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\RNN_LSTM\database.sqlite
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\RNN_LSTM\glove_vectors
+C:\Users\mchetankumar\OneDrive - Deloitte (O365D)\Completed Assignments\RNN_LSTM\preprocessed_data.csv
